@@ -1,0 +1,17 @@
+:host {
+  display: block;
+}
+
+.cmp-helloworld {
+  background-color: lemonchiffon;
+  width: min-content;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+}
+
+.cmp-helloworld__item-output {
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+}
